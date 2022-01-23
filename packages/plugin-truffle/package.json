@@ -1,5 +1,5 @@
 {
-  "name": "@blockswords/truffle-upgrades",
+  "name": "blockswords-openzeppelin-truffle-upgrades",
   "version": "1.15.0-blockswords0",
   "description": "",
   "repository": "https://github.com/OpenZeppelin/openzeppelin-upgrades/tree/master/packages/plugin-truffle",
